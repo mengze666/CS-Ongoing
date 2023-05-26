@@ -1,2 +1,6 @@
 # CS-Ongoing
-These are some study resources of colleage students majoring in computer science. If you have any relevant things, please add them.  
+你好，我的互联网朋友们！本人科班在读大学生，因此不得不将CS学习资源上传于此，以备不时之需，如有侵权，请联系本人邮箱，届时我将进行删除。
+本人承诺本项目所有学习资料仅供学习交流使用，我将保证为建设富强、民主、文明、和谐、美丽的现代化强大互联网中国而不懈奋斗。
+读者想必也为科班或有意向学习计算机专业相关知识的人士，如有其他优质计算机专业资源，请上传于此，届时我将合并于本项目。
+提前鸣谢所有贡献者们！
+
